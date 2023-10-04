@@ -1,2 +1,3 @@
-# Ada_QSD
-Repositório de Atividades da Ada_ programa Quero ser Data
+# Ada_Tecnicas de Programação I em Python
+Repositório de Exercícios 
+
