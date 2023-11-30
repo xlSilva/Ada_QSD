@@ -1,3 +1,3 @@
-# Ada_Tecnicas de Programação I em Python
+# Ada_Versionamento e Arquivos de Marcação
 Repositório de Exercícios 
 
