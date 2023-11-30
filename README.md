@@ -1,3 +1,4 @@
 # Ada_Versionamento e Arquivos de Marcação
-Repositório de Exercícios 
+Repositório da ada para prática de Exercícios Git Hub
 
+ 
